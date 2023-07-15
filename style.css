@@ -200,3 +200,7 @@ f-img img{
     height: auto;
     margin-bottom: 20px;
 }
+
+.column a{
+    color: #fff;
+}
