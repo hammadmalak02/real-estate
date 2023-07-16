@@ -139,7 +139,7 @@ section{
 .h-search form input:first-child{
     display: inline-block;
     width: 100%;
-    padding: 17px 342px 16px 15px;
+    padding: 17px 227px 16px 15px;
     border: 2px solid var(--main-color);
     border-radius: .70rem;
 }
